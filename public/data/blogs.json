@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "slug": "getting-started-service-manager",
+    "title": "Getting Started with Service Manager",
+    "excerpt": "A quick overview of the Services & Blog portal and how to navigate it.",
+    "date": "2025-09-01",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop",
+    "content": "<p>Welcome to <strong>Service Manager</strong>!</p><p>This portal showcases services and blog posts using a modern React stack.</p>"
+  },
+  {
+    "id": 2,
+    "slug": "designing-accessible-interfaces",
+    "title": "Designing Accessible Interfaces",
+    "excerpt": "Practical tips for building accessible components with Tailwind and React.",
+    "date": "2025-09-10",
+    "image": "https://images.unsplash.com/photo-1559028012-481c04fa702d?q=80&w=1200&auto=format&fit=crop",
+    "content": "<p>Accessibility matters.</p><p>Use semantic HTML, proper labels, and keyboard support.</p>"
+  }
+]
+
+
